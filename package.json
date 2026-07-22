@@ -1,18 +1,18 @@
 {
-  "name": "jayantgoel001.github.io",
+  "name": "vishnuKondapalli.github.io",
   "version": "2.0.0",
-  "description": " Kondapalli Vishnu (JayantGoel001)'s Personal Portfolio",
+  "description": " Kondapalli Vishnu (vishnuKondapalli)'s Personal Portfolio",
   "author": " Kondapalli Vishnu",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/JayantGoel001/JayantGoel001.github.io"
+    "url": "https://github.com/vishnuKondapalli/vishnuKondapalli.github.io"
   },
   "bugs": {
-    "url": "https://github.com/JayantGoel001/JayantGoel001.github.io/issues"
+    "url": "https://github.com/vishnuKondapalli/vishnuKondapalli.github.io/issues"
   },
-  "homepage": "https://JayantGoel001.github.io",
+  "homepage": "https://vishnuKondapalli.github.io",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

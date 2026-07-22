@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "JayantGoel001",
+      "login": "vishnuKondapalli",
       "name": " Kondapalli Vishnu",
       "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
-      "profile": "http://JayantGoel001.github.io",
+      "profile": "http://vishnuKondapalli.github.io",
       "contributions": [
         "code",
         "ideas",
@@ -53,8 +53,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "JayantGoel001.github.io",
-  "projectOwner": "JayantGoel001",
+  "projectName": "vishnuKondapalli.github.io",
+  "projectOwner": "vishnuKondapalli",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
