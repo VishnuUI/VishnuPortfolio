@@ -371,17 +371,17 @@ docker --version
 |   |   |   safari-pinned-tab.svg
 |   |   |   
 |   |   +---achievement
-|   |   |       DataScience.webp
-|   |   |       HackerRank.webp
-|   |   |       Hacktoberfest.webp
+|   |   |       UserCenteredDesign.webp
+|   |   |       DesignSystemSpecialist.webp
+|   |   |       IndustryDomains.webp
 |   |   |       
 |   |   \---portfolio
-|   |           A-Social-Media.webp
-|   |           AI-Image-Caption-Bot.webp
-|   |           AI-Music-Generation.webp
-|   |           E-Commerce-Site.webp
-|   |           School-Donation-Analysis.webp
-|   |           URL-Shortner.webp
+|   |           Web Site Design.webp
+|   |           Personal Portfolio Website.webp
+|   |           Design System.webp
+|   |           Business Research Website.webp
+|   |           Novira Life Sciences.webp
+|   |           Creative Agency Website.webp
 |   |           
 |   \---js
 |           particles.min.js
@@ -452,7 +452,7 @@ Add the below code snippet to `index.html` with your site info. This step is not
             "https://github.com/--- YOUR USERNAME ---/",
             "https://www.linkedin.com/in/--- YOUR USERNAME ---/",
             "https://gist.github.com/--- YOUR USERNAME ---/",
-            "https://www.hackerrank.com/--- YOUR USERNAME ---",
+            "https://www.DesignSystemSpecialist.com/--- YOUR USERNAME ---",
             "https://www.instagram.com/--- YOUR USERNAME ---/",
             "https://www.facebook.com/--- YOUR USERNAME ---/",
             "https://twitter.com/--- YOUR USERNAME ---/",

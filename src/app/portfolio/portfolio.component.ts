@@ -20,4 +20,6 @@ export class PortfolioComponent implements OnInit {
 		this.changeDetectorRef.detectChanges();
 	}
 
+
+
 }
